@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on beginner-friendly coding projects or anything related to enhancing web development skills.
 - 📫 How to reach me: Feel free to reach out to me via email at tamalcrj2002@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/tom-1508](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ⚽ Football enthusiast turned versatile sports player! 🏏 Learned cricket, badminton, and chess this year – checkmate on and off the pitch! ♟️🏸 #SportsLover
+- ⚡ Fun fact: ⚽ Football enthusiast turned versatile sports player! 🏏 Learned cricket, badminton, and chess this year(2023) – checkmate on and off the pitch! ♟️🏸 #SportsLover
 
 
 <!---
