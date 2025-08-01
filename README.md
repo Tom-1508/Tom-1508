@@ -1,26 +1,49 @@
 # 👋 Hi, I’m Tamal Majumdar (aka @Tom-1508)
 
-- 🧠 Aspiring **Data Scientist** with a passion for solving real-world problems from **problem statements to actionable decisions**.
-- 🐍 A proud **Python lover**, always exploring its powerful dimensions — from data wrangling to dashboards, APIs to automation.
-- 📊 Currently diving deep into:
-  - **Exploratory Data Analysis**
-  - **Statistical Thinking**
-  - **ML Algorithms**
-  - Building data-powered tools using **Python + Streamlit**
-- 🛠️ Building small yet meaningful projects like:
-  - A **Z-Test Calculator** for hypothesis testing
-  - A **Finance Tracker** that auto-categorizes and visualizes expenses
-- 💡 I believe that insights are powerful only when they lead to **better business decisions** — and that’s exactly the path I’m walking.
-- 🤝 I’m open to collaborating on:
-  - Data-related Python projects
-  - Beginner-friendly tools that solve **niche but useful** problems
-- 📫 Reach out:  
-  📧 **tamalcrj2002@gmail.com**  
-  🔗 [LinkedIn](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)
-- ⚡ Fun Fact:  
-  I’m a football champ turned multi-sport enthusiast 🏏🏸♟️ — just like data, I love **diverse challenges**!
+🎯 **Aspiring Data Scientist | Python Developer | Business Insight Enthusiast**
+
+I’m currently pursuing B.Tech in Computer Science and deeply committed to building a career in **data science**—with a focus on solving business problems through **data-driven decision making**.
+
+---
+
+## 💼 What I Do
+- 🧠 Translate **problem statements into solutions** using Python and statistics.
+- 📊 Work on **end-to-end data projects** — from data collection and cleaning to visualization, insights, and decision support.
+- ⚙️ Build **micro-projects** that solve real-world pain points in intuitive ways.
+
+---
+
+## 🧪 Projects That Reflect Me
+- 🔍 **Z-Test Calculator**: Streamlined hypothesis testing for learners and analysts.
+- 💸 **Finance Tracker App**: Built with Streamlit to auto-categorize and visualize personal expenses.
+- 📈 **More Projects Coming**: All aimed at simplifying data interaction, analysis, and decision-making.
+
+---
+
+## 🛠️ Tech I Work With
+**Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
+**Tools**: Streamlit, Git, Jupyter, VS Code  
+**Learning**: Statistics for Data Science, Machine Learning, Business Analytics
+
+---
+
+## 🤝 Let’s Connect
+📫 Email: tamalcrj2002@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)  
+🐦 [X / Twitter](https://x.com/Majumdar15Tamal)  
+📁 [Explore My Repositories](https://github.com/Tom-1508?tab=repositories)
+
+---
+
+## ⚡ A Little About Me
+- 🎯 Career Goal: To become a **data scientist who adds value from problem framing to final business decisions**.
+- 💡 Philosophy: Data is powerful only when it drives action.
+- 🧩 Passionate about creating small, meaningful tools that simplify life.
+- 🏆 Multi-sport enthusiast – because learning, like sports, is best when consistent and challenging!
+
+---
 
 <!---
 Tom-1508/Tom-1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
