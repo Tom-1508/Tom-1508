@@ -1,12 +1,24 @@
-# 👋 Hi, I’m @Tom-1508
+# 👋 Hi, I’m Tamal Majumdar (aka @Tom-1508)
 
-- 👀 I’m interested in web development and open-source projects.
-- 🌱 I’m currently learning JavaScript, Python.
-- 💞️ I’m looking to collaborate on beginner-friendly coding projects or anything related to enhancing web development skills.
-- 📫 How to reach me: Feel free to reach out to me via email at tamalcrj2002@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/tom-1508](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ⚽ Football enthusiast turned versatile sports player! 🏏 Learned cricket, badminton, and chess this year(2023) – checkmate on and off the pitch! ♟️🏸 #SportsLover
-
+- 🧠 Aspiring **Data Scientist** with a passion for solving real-world problems from **problem statements to actionable decisions**.
+- 🐍 A proud **Python lover**, always exploring its powerful dimensions — from data wrangling to dashboards, APIs to automation.
+- 📊 Currently diving deep into:
+  - **Exploratory Data Analysis**
+  - **Statistical Thinking**
+  - **ML Algorithms**
+  - Building data-powered tools using **Python + Streamlit**
+- 🛠️ Building small yet meaningful projects like:
+  - A **Z-Test Calculator** for hypothesis testing
+  - A **Finance Tracker** that auto-categorizes and visualizes expenses
+- 💡 I believe that insights are powerful only when they lead to **better business decisions** — and that’s exactly the path I’m walking.
+- 🤝 I’m open to collaborating on:
+  - Data-related Python projects
+  - Beginner-friendly tools that solve **niche but useful** problems
+- 📫 Reach out:  
+  📧 **tamalcrj2002@gmail.com**  
+  🔗 [LinkedIn](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)
+- ⚡ Fun Fact:  
+  I’m a football champ turned multi-sport enthusiast 🏏🏸♟️ — just like data, I love **diverse challenges**!
 
 <!---
 Tom-1508/Tom-1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
