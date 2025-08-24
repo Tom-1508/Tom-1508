@@ -30,7 +30,7 @@ I’m pursuing my **B.Tech in Information Technology** at B.P. Poddar Institute 
 
 **Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL
 **Tools:** Streamlit, Git, Jupyter Notebook, VS Code
-**Currently Learning:** Machine Learning, Business Analytics, Applied Statistics
+**Currently Learning:** Machine Learning
 
 ---
 
