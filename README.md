@@ -1,49 +1,53 @@
 # 👋 Hi, I’m Tamal Majumdar (aka @Tom-1508)
 
-🎯 **Aspiring Data Scientist | Python Developer | Business Insight Enthusiast**
+🐍 **Python Developer** | 📊 **Data Enthusiast** | 📈 **Interactive Dashboard Builder** | 🤖 **ML Learner**
 
-I’m currently pursuing B.Tech in Computer Science and deeply committed to building a career in **data science**—with a focus on solving business problems through **data-driven decision making**.
+🎯 **Aspiring Data Scientist | Business Insight Enthusiast**
+
+I’m pursuing my **B.Tech in Information Technology** at B.P. Poddar Institute of Management and Technology and I’m passionate about turning raw data into meaningful insights. My focus lies in **data science, analytics, and automation**—building tools and applications that make data **accessible, actionable, and impactful**.
 
 ---
 
 ## 💼 What I Do
-- 🧠 Translate **problem statements into solutions** using Python and statistics.
-- 📊 Work on **end-to-end data projects** — from data collection and cleaning to visualization, insights, and decision support.
-- ⚙️ Build **micro-projects** that solve real-world pain points in intuitive ways.
+
+* 🧠 **Problem-Solving with Data**: Translate complex problem statements into solutions using Python and statistics.
+* 📊 **End-to-End Data Projects**: From collection & cleaning to visualization, insights, and business decisions.
+* ⚙️ **Automation & Tools**: Develop micro-projects and apps that solve real-world pain points in intuitive ways.
 
 ---
 
-## 🧪 Projects That Reflect Me
-- 🔍 **Z-Test Calculator**: Streamlined hypothesis testing for learners and analysts.
-- 💸 **Finance Tracker App**: Built with Streamlit to auto-categorize and visualize personal expenses.
-- 📈 **More Projects Coming**: All aimed at simplifying data interaction, analysis, and decision-making.
+## 🧪 Featured Projects
+
+* 💸 **Finance Tracker App** → A Streamlit app that auto-categorizes transactions and visualizes spending patterns.
+* 🔍 **Z-Test Calculator** → A simple tool that makes hypothesis testing accessible for learners & analysts.
+* 📈 **Gold Price Predictor** → ML-powered model to forecast price trends using historical data.
+
+👉 Explore more on my [🌐 Portfolio](https://tamal-majumdar.vercel.app/)
 
 ---
 
-## 🛠️ Tech I Work With
-**Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL  
-**Tools**: Streamlit, Git, Jupyter, VS Code  
-**Learning**: Statistics for Data Science, Machine Learning, Business Analytics
+## 🛠️ Tech Stack
 
----
-
-## 🤝 Let’s Connect
-📫 Email: tamalcrj2002@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)  
-🐦 [X / Twitter](https://x.com/Majumdar15Tamal)  
-📁 [Explore My Repositories](https://github.com/Tom-1508?tab=repositories)
+**Languages:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL
+**Tools:** Streamlit, Git, Jupyter Notebook, VS Code
+**Currently Learning:** Machine Learning, Business Analytics, Applied Statistics
 
 ---
 
 ## ⚡ A Little About Me
-- 🎯 Career Goal: To become a **data scientist who adds value from problem framing to final business decisions**.
-- 💡 Philosophy: Data is powerful only when it drives action.
-- 🧩 Passionate about creating small, meaningful tools that simplify life.
-- 🏆 Multi-sport enthusiast – because learning, like sports, is best when consistent and challenging!
+
+* 🎯 Career Goal → Become a **data scientist** who bridges the gap between raw data and business impact.
+* 💡 Philosophy → *“Data is powerful only when it drives action.”*
+* 🧩 Passionate about creating **small but impactful tools** that simplify decision-making.
+* 🏆 Sports lover → Believe consistency in learning is just like consistency in training!
 
 ---
 
-<!---
-Tom-1508/Tom-1508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
+## 🤝 Let’s Connect
+
+📫 **Email:** [tamalcrj2002@gmail.com](mailto:tamalcrj2002@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)
+🐦 [Twitter / X](https://x.com/Majumdar15Tamal)
+📁 [GitHub Repositories](https://github.com/Tom-1508?tab=repositories)
+
+---
