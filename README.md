@@ -1,12 +1,24 @@
-# 👋 **Hi, I’m Tamal Majumdar** <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Data%20Science-1E293B?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=👋+Hi,+I’m+Tamal+Majumdar;🐍+Python+Developer;📊+Data+Enthusiast;🤖+ML+Learner;📈+Dashboard+Builder" />
+</p>
 
-> *Turning data into decisions, one dashboard at a time.*
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Data%20Science-1E293B?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
+</p>
 
-![Animated Python](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&width=435&lines=🐍+Python+Developer;📊+Data+Enthusiast;🤖+ML+Learner;📈+Dashboard+Builder)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions,+one+dashboard+at+a+time." />
+</p>
 
 ---
 
 ## 💼 **What I Do**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&width=500&lines=🧠+Problem-Solving+with+Data;📊+End-to-End+Data+Projects;⚙️+Automation+%26+Tools" />
+</p>
 
 * 🧠 **Problem-Solving with Data** – Transform complex questions into actionable insights using Python & statistics.
 * 📊 **End-to-End Data Projects** – From collection & cleaning to visualization, insights, and business decisions.
@@ -15,6 +27,10 @@
 ---
 
 ## 🧪 **Featured Projects**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F37626&width=500&lines=💸+Finance+Tracker;🔍+Z-Test+Calculator;📈+Gold+Price+Predictor" />
+</p>
 
 | Project                | Description                                                                 | Tech         |
 |------------------------|-----------------------------------------------------------------------------|--------------|
@@ -27,6 +43,10 @@
 ---
 
 ## 🛠️ **Tech Stack**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007ACC&width=500&lines=Python;+Pandas;+NumPy;+Matplotlib;+Scikit-learn;+SQL;+Streamlit;+Jupyter;+VS+Code;+Git" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -45,6 +65,10 @@
 
 ## ⚡ **A Little About Me**
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F7931E&width=500&lines=🎯+Career+Goal;+💡+Philosophy;+🧩+Passion;+🏆+Sports+Lover" />
+</p>
+
 * 🎯 **Career Goal:** Become a data scientist who bridges the gap between raw data and business impact.
 * 💡 **Philosophy:** *“Data is powerful only when it drives action.”*
 * 🧩 **Passion:** Creating small but impactful tools that simplify decision-making.
@@ -53,6 +77,10 @@
 ---
 
 ## 🤝 **Let’s Connect**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&width=500&lines=📫+Email;+🔗+LinkedIn;+🐦+Twitter;+📁+GitHub" />
+</p>
 
 [![Email](https://img.shields.io/badge/Email-tamalcrj2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamalcrj2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamal%20Majumdar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)
@@ -63,5 +91,5 @@
 
 <details>
   <summary>🎬 <b>Fun Fact:</b> This README uses animated badges and typing effects for a modern touch!</summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&width=435&lines=Thanks+for+visiting+my+profile!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3776AB&width=435&lines=Thanks+for+visiting+my+profile!+🚀" />
 </details>
