@@ -1,95 +1,96 @@
+<!-- Animated Developer Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=👋+Hi,+I’m+Tamal+Majumdar;🐍+Python+Developer;📊+Data+Enthusiast;🤖+ML+Learner;📈+Dashboard+Builder" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Data%20Science-1E293B?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Tamal+Majumdar;🐍+Python+Developer;📊+Data+Engineer+in+Progress;🤖+ML+Explorer;🚀+Building+Smart+Apps+that+Drive+Decisions" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions,+one+dashboard+at+a+time." />
+  <a href="mailto:tamalcrj2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tamal-majumdar-a685a61b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Majumdar15Tamal"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/Tom-1508"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💼 **What I Do**
+## ⚡ About Me
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&width=500&lines=🧠+Problem-Solving+with+Data;📊+End-to-End+Data+Projects;⚙️+Automation+%26+Tools" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=🎯+Transforming+data+into+decisions;💡+Building+automation+and+intelligence+with+Python;📈+Turning+raw+datasets+into+stories;⚙️+Learning,+building,+and+iterating+daily" />
 </p>
 
-* 🧠 **Problem-Solving with Data** – Transform complex questions into actionable insights using Python & statistics.
-* 📊 **End-to-End Data Projects** – From collection & cleaning to visualization, insights, and business decisions.
-* ⚙️ **Automation & Tools** – Build micro-apps that solve real-world pain points with intuitive UIs.
+- 💼 **Current Focus:** Data-driven Python development, automation tools & dashboards  
+- 🧠 **Exploring:** Machine Learning, Streamlit apps, and deployment pipelines  
+- 🎯 **Goal:** Become a **Data Scientist** bridging technical insights and real business outcomes  
+- 🏆 **Fun fact:** I treat debugging like detective work — every bug tells a story.  
 
 ---
 
-## 🧪 **Featured Projects**
+## 🧪 Featured Projects
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F37626&width=500&lines=💸+Finance+Tracker;🔍+Z-Test+Calculator;📈+Gold+Price+Predictor" />
-</p>
+| 🚀 Project | 📝 Description | ⚙️ Tech |
+|------------|----------------|----------|
+| 💸 **Finance Tracker** | Streamlit app for automated expense tracking, categorization & visualization | Python, Streamlit, Pandas |
+| 🔍 **Z-Test Calculator** | Web tool for learners to run statistical hypothesis tests easily | Python, Streamlit |
+| 📈 **Gold Price Predictor** | ML-based model predicting gold price trends using historical data | Python, Scikit-learn |
 
-| Project                | Description                                                                 | Tech         |
-|------------------------|-----------------------------------------------------------------------------|--------------|
-| 💸 **Finance Tracker** | Streamlit app for auto-categorizing transactions & visualizing spending     | Python, Streamlit |
-| 🔍 **Z-Test Calculator** | Hypothesis testing made simple for learners & analysts                      | Python, Streamlit |
-| 📈 **Gold Price Predictor** | ML-powered model to forecast price trends using historical data           | Python, scikit-learn |
-
-> 👉 Explore more on my [🌐 Portfolio](https://tamal-majumdar.vercel.app/)
+> 🎯 Explore more on my [🌐 **Portfolio**](https://tamal-majumdar.vercel.app/)  
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007ACC&width=500&lines=Python;+Pandas;+NumPy;+Matplotlib;+Scikit-learn;+SQL;+Streamlit;+Jupyter;+VS+Code;+Git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,streamlit,git,github,vscode,figma,html,css,js" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Currently Learning:** Machine Learning, Data Visualization
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Currently+Exploring:+Machine+Learning+%7C+Data+Visualization+%7C+Flask+Apps" />
+</p>
 
 ---
 
-## ⚡ **A Little About Me**
+## 🧭 GitHub Analytics
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F7931E&width=500&lines=🎯+Career+Goal;+💡+Philosophy;+🧩+Passion;+🏆+Sports+Lover" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tom-1508&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tom-1508&theme=radical&hide_border=false" height="160"/>
 </p>
 
-* 🎯 **Career Goal:** Become a data scientist who bridges the gap between raw data and business impact.
-* 💡 **Philosophy:** *“Data is powerful only when it drives action.”*
-* 🧩 **Passion:** Creating small but impactful tools that simplify decision-making.
-* 🏆 **Sports Lover:** Consistency in learning is just like consistency in training!
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tom-1508&theme=react-dark&hide_border=true&area=true" height="250"/>
+</p>
 
 ---
 
-## 🤝 **Let’s Connect**
+## 🤝 Let’s Connect
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&width=500&lines=📫+Email;+🔗+LinkedIn;+🐦+Twitter;+📁+GitHub" />
+<p align="center">
+  <a href="mailto:tamalcrj2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tamal-majumdar-a685a61b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Majumdar15Tamal">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tom-1508?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-[![Email](https://img.shields.io/badge/Email-tamalcrj2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamalcrj2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tamal%20Majumdar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tamal-majumdar-a685a61b4/)
-[![Twitter](https://img.shields.io/badge/Twitter-@Majumdar15Tamal-1DA1F2?style=for-the-badge&logo=x)](https://x.com/Majumdar15Tamal)
-[![GitHub](https://img.shields.io/badge/GitHub-Tom--1508-black?style=for-the-badge&logo=github)](https://github.com/Tom-1508?tab=repositories)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Let's+build+something+amazing+together!+🤝" />
+</p>
 
 ---
 
 <details>
-  <summary>🎬 <b>Fun Fact:</b> This README uses animated badges and typing effects for a modern touch!</summary>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3776AB&width=435&lines=Thanks+for+visiting+my+profile!+🚀" />
+  <summary>🎬 <b>Fun Zone</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <br><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Stay+curious,+stay+consistent,+keep+building!"/>
+  </p>
 </details>
