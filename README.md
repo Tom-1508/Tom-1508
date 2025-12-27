@@ -1,6 +1,6 @@
 <!-- Animated Developer Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=👋+Hey,+I'm+Tamal+Majumdar;🐍+Python+Developer;📊+Data+Engineer+in+Progress;🤖+ML+Explorer;🚀+Building+Smart+Apps+that+Drive+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=10B981&center=true&vCenter=true&width=900&lines=👋+Hey,+I'm+Tamal+Majumdar;🐍+Python+Backend+Developer;⚙️+FastAPI+%7C+Microservices+in+Progress;🕷️+Web+Scraping+%26+Automation;🚀+Building+Real-World+Data+Systems" />
 </p>
 
 <p align="center">
@@ -15,13 +15,14 @@
 ## ⚡ About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=750&lines=🎯+Transforming+data+into+decisions;💡+Building+automation+and+intelligence+with+Python;📈+Turning+raw+datasets+into+stories;⚙️+Learning,+building,+and+iterating+daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=🎯+Designing+robust+backend+systems;⚙️+APIs,+scrapers,+and+data+pipelines+with+Python;🕷️+Extracting+real-world+data+at+scale;📦+Learning+system+design+by+building+real+projects" />
 </p>
 
-- 💼 **Current Focus:** Data-driven Python development, automation tools & dashboards  
-- 🧠 **Exploring:** Machine Learning, Streamlit apps, and deployment pipelines  
-- 🎯 **Goal:** Become a **Data Scientist** bridging technical insights and real business outcomes  
-- 🏆 **Fun fact:** I treat debugging like detective work — every bug tells a story.  
+- 💼 **Current Focus:** Python backend development, FastAPI, APIs & microservices  
+- 🧠 **Actively Working On:** Web scraping (Playwright), proxies, automation, data ingestion pipelines  
+- 🔬 **Exploring:** ML integration, anomaly detection, analytics & monitoring  
+- 🎯 **Goal:** Become a **strong backend engineer** who understands data, ML, and system design  
+- 🏆 **Fun fact:** I enjoy breaking complex systems just to understand how to rebuild them better  
 
 ---
 
@@ -29,22 +30,23 @@
 
 | 🚀 Project | 📝 Description | ⚙️ Tech |
 |------------|----------------|----------|
-| 💸 **Finance Tracker** | Streamlit app for automated expense tracking, categorization & visualization | Python, Streamlit, Pandas |
-| 🔍 **Z-Test Calculator** | Web tool for learners to run statistical hypothesis tests easily | Python, Streamlit |
-| 📈 **Gold Price Predictor** | ML-based model predicting gold price trends using historical data | Python, Scikit-learn |
+| 💸 **Finance Tracker** | Streamlit-based app for expense processing, categorization & insights | Python, Streamlit, Pandas |
+| 🕷️ **OTT Web Scrapers** | Production-style scrapers with pagination, blocking detection & proxies | Python, Playwright, Bright Data |
+| ⚙️ **FastAPI Backend Services** | Modular APIs with clean architecture & real-world folder structure | FastAPI, Python |
+| 🤖 **Anomaly Detection System** | ML-based detection using normal-behavior modeling | Python, Scikit-learn |
 
-> 🎯 Explore more on my [🌐 **Portfolio**](https://tamal-majumdar.vercel.app/)  
+> 🎯 Explore more on my [🌐 **Portfolio**](https://tamal-majumdar.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,streamlit,git,github,vscode,figma,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,git,github,docker,vscode,html,css,js" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Currently+Exploring:+Machine+Learning+%7C+Data+Visualization+%7C+Flask+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Currently+Exploring:+System+Design+%7C+Microservices+%7C+ML+Pipelines+%7C+Cloud+Foundations" />
 </p>
 
 ---
@@ -80,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Let's+build+something+amazing+together!+🤝" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Let's+build+scalable+systems+together!+🤝" />
 </p>
 
 ---
@@ -91,6 +93,6 @@
   <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
     <br><br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Stay+curious,+stay+consistent,+keep+building!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+🚀;Build+systems,+not+just+projects."/>
   </p>
 </details>
